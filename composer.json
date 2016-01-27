@@ -9,6 +9,11 @@
     ],
     "homepage": "http://gitlab.serpro/flavio.lisboa/expresso-base",
     "license": "AGPL",
+    "autoload": {
+        "psr-4": {
+            "Expresso\\Base\\": "src/Expresso/Base"
+        }
+    },
     "require": {
         "php": ">=5.4"
     }

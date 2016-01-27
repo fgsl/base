@@ -64,6 +64,6 @@ class Application {
      */
     public function run()
     {
-        throw new Exception(__METHOD__ . ' must be implemented');
+        throw new \Exception(__METHOD__ . ' must be implemented');
     }
 }

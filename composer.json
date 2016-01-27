@@ -1,0 +1,15 @@
+{
+    "name": "expresso/base",
+    "description": "Expresso Base",
+    "type": "library",
+    "keywords": [
+        "base",
+        "expresso",
+        "framework"
+    ],
+    "homepage": "http://gitlab.serpro/flavio.lisboa/expresso-base",
+    "license": "AGPL",
+    "require": {
+        "php": ">=5.4"
+    }
+}

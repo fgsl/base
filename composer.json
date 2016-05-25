@@ -7,7 +7,7 @@
         "expresso",
         "framework"
     ],
-    "homepage": "http://gitlab.serpro/flavio.lisboa/expresso-base",
+    "homepage": "https://git.serpro/27524001878/expresso-base",
     "license": "AGPL",
     "autoload": {
         "psr-4": {

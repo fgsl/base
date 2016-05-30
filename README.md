@@ -1,4 +1,4 @@
-# Expresso Base - a container application and component aggregator
+# Expresso Base - a framework for groupware
 
 ## Synopsis
 

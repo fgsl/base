@@ -1,17 +1,17 @@
 {
-    "name": "expresso/base",
-    "description": "Expresso Base",
+    "name": "base",
+    "description": "Base",
     "type": "library",
     "keywords": [
         "base",
         "expresso",
         "framework"
     ],
-    "homepage": "https://github.com/fgsl/expresso-base",
+    "homepage": "https://github.com/fgsl/base",
     "license": "AGPL",
     "autoload": {
         "psr-4": {
-            "Expresso\\Base\\": "src/Expresso/Base"
+            "Fgsl\\Base\\": "src/Fgsl/Base"
         }
     },
     "require": {

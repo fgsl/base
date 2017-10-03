@@ -1,12 +1,12 @@
-# Expresso Base - a framework for groupware
+# Base - a reduced base framework
 
 ## Synopsis
 
-Expresso Base provides classes to combine components of several frameworks based on PHP-FIG patterns.
+Base provides classes to combine components of several frameworks based on PHP-FIG patterns.
 
 ## Test
 
-    phpunit --bootstrap tests/bootstrap.php tests/Expresso/Test/TestSuite.php
+    phpunit --bootstrap tests/bootstrap.php tests/Fgsl/Test/TestSuite.php
 
 ## License
 
